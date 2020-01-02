@@ -12,7 +12,7 @@ body {
 }
 
 .logo {
- max-width: 250px; 
+ max-width: 200px; 
  background-color: #FFF;
  padding: 5px 10px;  
 }
@@ -21,4 +21,10 @@ p.description {
     background-color: #000;
     color: #FFF;
     display: inline;
+}
+
+.social-link {
+  font-family: "Times New Roman";
+  font-size: 10px;
+  color: #FFF;
 }
