@@ -10,3 +10,7 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+.logo {
+ max-width: 250px; 
+}
