@@ -12,18 +12,19 @@ body {
 }
 
 .logo {
- max-width: 170px; 
+ max-width: 150px; 
  background-color: #FFF;
  padding: 5px 10px;  
 }
 
 p {
- font-size: 12px; 
+ font-size: 11px; 
 }
 
 p.description {
     background-color: #000;
     color: #FFF;
+    font-size: 12px;
     display: inline;
 }
 
