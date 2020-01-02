@@ -4,13 +4,21 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background: url('../images/colony_the_patient_carabau.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  background: url('../images/colony_the_patient_carabau.jpg') no-repeat left center fixed;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  background-size: auto;
+  -o-background-size: auto;
 }
 
 .logo {
  max-width: 250px; 
+ background-color: #FFF;
+ padding: 5px 10px;  
+}
+
+p.description {
+    background-color: #000;
+    color: #FFF;
+    display: inline;
 }
