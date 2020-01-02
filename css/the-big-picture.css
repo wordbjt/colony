@@ -32,3 +32,8 @@ a.social-link {
   font-size: 10px;
   color: #FFF;
 }
+
+a.social-link:hover {
+  color: #FFF;
+  text-decoration: underline;
+}
