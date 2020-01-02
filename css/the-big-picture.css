@@ -12,9 +12,13 @@ body {
 }
 
 .logo {
- max-width: 200px; 
+ max-width: 170px; 
  background-color: #FFF;
  padding: 5px 10px;  
+}
+
+p {
+ font-size: 12px; 
 }
 
 p.description {
@@ -23,7 +27,7 @@ p.description {
     display: inline;
 }
 
-.social-link {
+a.social-link {
   font-family: "Times New Roman";
   font-size: 10px;
   color: #FFF;
